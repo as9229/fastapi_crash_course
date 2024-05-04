@@ -1,0 +1,5 @@
+venv
+Dockerfile
+readme-draft.md
+tasks.db
+.python-version
